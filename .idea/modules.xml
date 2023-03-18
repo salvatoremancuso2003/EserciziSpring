@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Esercizio Spring - 09 - Hybernate.iml" filepath="$PROJECT_DIR$/.idea/Esercizio Spring - 09 - Hybernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/esercizio09/esercizio09.iml" filepath="$PROJECT_DIR$/esercizio09/esercizio09.iml" />
+    </modules>
+  </component>
+</project>
